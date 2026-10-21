@@ -1,0 +1,218 @@
+Construction_Name,U_Value_W_m2K,R_Value_m2K_W,Layer_Count,Outside_Material,Inside_Material,Area_Heat_Capacity_J_m2K,Solar_Absorptance
+Generic Interior Door,5.9055,0.1693,1,Generic 25mm Wood,Generic 25mm Wood,25172.42,0.5
+Generic Interior Ceiling,1.4248,0.7019,3,Generic LW Concrete,Generic Acoustic Tile,111990.4,0.8
+Ceiling Plenum Top,5.3,0.1887,1,Generic LW Concrete,Generic LW Concrete,107520.0,0.8
+Ceiling Plenum Bottom,3.0,0.3333,1,Generic Acoustic Tile,Generic Acoustic Tile,4342.4,0.2
+Floor Plenum Top,5.9055,0.1693,1,Generic 25mm Wood,Generic 25mm Wood,25172.42,0.5
+Floor Plenum Bottom,5.3,0.1887,1,Generic LW Concrete,Generic LW Concrete,107520.0,0.8
+Generic Interior Wall,3.2397,0.3087,3,Generic Gypsum Board,Generic Gypsum Board,22276.8,0.5
+Generic Exposed Floor,0.4913,2.0352,4,Generic Painted Metal,Generic LW Concrete,114978.85,0.5
+Generic Interior Floor,1.4248,0.7019,3,Generic Acoustic Tile,Generic LW Concrete,111990.4,0.2
+Generic Ground Slab,0.5652,1.7692,2,Generic 50mm Insulation,Generic HW Concrete,405801.5,0.7
+Generic Roof,0.4113,2.431,5,Generic Roof Membrane,Generic Acoustic Tile,130943.9,0.65
+Generic Exterior Wall,0.4554,2.1958,5,Generic Brick,Generic Gypsum Board,273003.9,0.65
+Generic Underground Wall,0.5004,1.9985,4,Generic 50mm Insulation,Generic Gypsum Board,417003.9,0.7
+Generic Air Boundary,,,0,Air,Air,,
+Generic Underground Roof,0.4381,2.2824,4,Generic 50mm Insulation,Generic Acoustic Tile,410271.9,0.7
+Generic Exterior Door,1.1999,0.8334,3,Generic Painted Metal,Generic Painted Metal,10759.45,0.5
+Adiabatic ExteriorFloor,0.0006,1760.9257,1,Adiabatic Material,Adiabatic Material,0,0.7
+Adiabatic GroundContactFloor,0.0006,1760.9257,1,Adiabatic Material,Adiabatic Material,0,0.7
+Adiabatic Roof,0.0006,1760.9257,1,Adiabatic Material,Adiabatic Material,0,0.7
+Adiabatic Wall,0.0006,1760.9257,1,Adiabatic Material,Adiabatic Material,0,0.7
+Typical Attic Floor,5.3454,0.1871,3,1/2IN Gypsum,1/2IN Gypsum,16536.63,0.4
+Typical Attic Soffit,7.5421,0.1326,1,5/8 in. Plywood,5/8 in. Plywood,10459.29,0.7
+Typical Built Up Roof,11.4084,0.0877,3,Built-up Roofing,Metal Surface,18652.01,0.7
+Typical Built Up Roof - Highly Reflective,11.4084,0.0877,3,Built-up Roofing - Highly Reflective,Metal Surface,18652.01,0.45
+Typical Carpeted 4in Slab Floor,3.401,0.294,2,MAT-CC05 4 HW CONCRETE,Typical Carpet Pad,190319.93,0.85
+Typical Carpeted 6in Slab Floor,3.5398,0.2825,2,6 in. Normalweight Concrete Floor,Typical Carpet Pad,294233.0,0.7
+Typical Carpeted 8in Slab Floor,3.284,0.3045,2,8 in. Normalweight Concrete Floor,Typical Carpet Pad,392310.67,0.7
+Typical IEAD Roof,11.4084,0.0877,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical IEAD Roof - Highly Reflective,11.4084,0.0877,3,Roof Membrane - Highly Reflective,Metal Roof Surface,18669.89,0.45
+Typical Insulated 6in Slab Floor,10.6112,0.0942,2,Typical Insulation,6 in. Normalweight Concrete Floor,294233.0,0.7
+Typical Insulated 8in Slab Floor,8.6024,0.1162,2,Typical Insulation,8 in. Normalweight Concrete Floor,392310.67,0.7
+Typical Insulated Basement Mass Wall,5.5076,0.1816,2,Typical Insulation,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical Insulated Carpeted 4in Slab Floor,3.1032,0.3223,3,Typical Insulation,Typical Carpet Pad,190319.93,0.7
+Typical Insulated Carpeted 6in Slab Floor,3.2183,0.3107,3,Typical Insulation,Typical Carpet Pad,294233.0,0.7
+Typical Insulated Carpeted 8in Slab Floor,3.0055,0.3327,3,Typical Insulation,Typical Carpet Pad,392310.67,0.7
+Typical Insulated Exterior Mass Floor,3.4636,0.2887,3,Typical Insulation,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Exterior Mass Floor Ceiling,3.4636,0.2887,3,Typical Carpet Pad,Typical Insulation,196155.34,0.7
+Typical Insulated Exterior Mass Wall,3.3406,0.2993,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Interior Wall,0.7576,1.32,5,25mm Stucco,5/8 in. Gypsum Board,95895.51,0.7
+Typical Insulated Metal Building Roof,35.4109,0.0282,2,Metal Roof Surface,Typical Insulation,3127.59,0.7
+Typical Insulated Metal Building Roof - Highly Reflective,35.4109,0.0282,2,Metal Roof Surface - Highly Reflective,Typical Insulation,3127.59,0.45
+Typical Insulated Metal Building Wall,9.2865,0.1077,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Door,35.4109,0.0282,2,F08 Metal surface,Typical Insulation,3127.59,0.7
+Typical Insulated Steel Framed Exterior Floor,2.0882,0.4789,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Steel Framed Exterior Wall,3.8109,0.2624,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Wood Framed Exterior Floor,2.0882,0.4789,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Wood Framed Exterior Wall,3.8109,0.2624,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Interior Ceiling,3.839,0.2605,2,CP02 CARPET PAD,100mm Normalweight concrete floor,196286.73,0.7
+Typical Interior Door,5.9016,0.1694,1,G05 25mm wood,G05 25mm wood,25156.24,0.5
+Typical Interior Floor,3.839,0.2605,2,100mm Normalweight concrete floor,CP02 CARPET PAD,196286.73,0.7
+Typical Interior Partition,5.9016,0.1694,1,G05 25mm wood,G05 25mm wood,25156.24,0.5
+Typical Interior Slab Floor,3.8389,0.2605,2,4 in. Normalweight Concrete Floor,Typical Carpet Pad,196155.34,0.7
+Typical Interior Wall,6.2962,0.1588,2,G01 13mm gypsum board,G01 13mm gypsum board,22149.4,0.7
+Typical Overhead Door,35.4331,0.0282,1,Typical Insulation,Typical Insulation,0,0.7
+Typical Uncarpeted 4in Slab Floor,12.8949,0.0775,1,MAT-CC05 4 HW CONCRETE,MAT-CC05 4 HW CONCRETE,190319.93,0.85
+Typical Uncarpeted 6in Slab Floor,15.1473,0.066,1,6 in. Normalweight Concrete Floor,6 in. Normalweight Concrete Floor,294233.0,0.7
+Typical Uninsulated 6in Slab Floor,15.1473,0.066,1,6 in. Normalweight Concrete Floor,6 in. Normalweight Concrete Floor,294233.0,0.7
+Typical Uninsulated 8in Slab Floor,11.3605,0.088,1,8 in. Normalweight Concrete Floor,8 in. Normalweight Concrete Floor,392310.67,0.7
+Typical Uninsulated Basement Mass Wall,6.5212,0.1533,1,8 in. Concrete Block Basement Wall,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical Uninsulated Carpeted 8in Slab Floor,2.704,0.3698,2,8 in. Concrete Block Basement Wall,Typical Carpet Pad,341137.17,0.7
+Typical Uninsulated Exterior Mass Wall,3.6884,0.2711,3,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Uninsulated Interior Wall,6.295,0.1589,2,1/2 in. Gypsum Board,1/2 in. Gypsum Board,22134.57,0.7
+Typical Uninsulated Metal Building Roof,29983.9347,0.0,1,Metal Roofing,Metal Roofing,4816.87,0.6
+Typical Uninsulated Metal Building Roof - Highly Reflective,29983.9347,0.0,1,Metal Roofing - Highly Reflective,Metal Roofing - Highly Reflective,4816.87,0.45
+Typical Uninsulated Metal Building Wall,12.5847,0.0795,2,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Uninsulated Metal Roof Attic Roof,16.8214,0.0594,2,Roof Membrane,Metal Decking,20359.17,0.7
+Typical Uninsulated Steel Framed Exterior Wall,5.8686,0.1704,2,Wood Siding,1/2IN Gypsum,14853.98,0.78
+Typical Uninsulated Swinging Door,35.4331,0.0282,1,Typical Insulation,Typical Insulation,0,0.7
+Typical Uninsulated Wood Joist Attic Roof,4.7027,0.2126,2,Asphalt Shingles,5/8 in. Plywood,14972.23,0.7
+Typical Unisulated Carpeted 6in Slab Floor,3.5398,0.2825,2,6 in. Normalweight Concrete Floor,Typical Carpet Pad,294233.0,0.7
+Typical Wood Joist Attic Floor,7.8331,0.1277,2,5/8 in. Gypsum Board,Typical Insulation,13855.89,0.7
+Typical Wood Joist Attic Floor Ceiling,7.8331,0.1277,2,Typical Insulation,5/8 in. Gypsum Board,13855.89,0.7
+ext-slab,15.1473,0.066,1,6 in. Normalweight Concrete Floor,6 in. Normalweight Concrete Floor,294233.0,0.7
+ext-slab-mass,3.4012,0.294,2,HW CONCRETE,CP02 CARPET PAD,190447.42,0.7
+ext-slab-metal-building,6.4487,0.1551,1,HW CONCRETE 8 in,HW CONCRETE 8 in,380894.84,0.7
+ext-slab-steel-frame,2.6914,0.3715,2,HW CONCRETE 8 in,CP02 CARPET PAD,380894.84,0.7
+Typical Insulated Steel Framed Exterior Wall-R9,0.6817,1.467,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical IEAD Roof - Highly Reflective-R21,0.2661,3.7577,3,Roof Membrane - Highly Reflective,Metal Roof Surface,18669.89,0.45
+Typical Insulated Steel Framed Exterior Floor-R3,1.5955,0.6268,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Metal Door-R3,1.8927,0.5283,2,F08 Metal surface,Typical Insulation-R3,3127.59,0.7
+Typical Overhead Door-R4,1.4196,0.7044,1,Typical Insulation-R4,Typical Insulation-R4,0,0.7
+Typical Insulated Wood Framed Exterior Wall-R12,0.5012,1.9953,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R38,0.1512,6.6155,2,5/8 in. Gypsum Board,Typical Insulation-R37,13855.89,0.7
+Typical Insulated Wood Framed Exterior Floor-R4,1.5955,0.6268,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Exterior Mass Wall-R2,2.236,0.4472,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Exterior Mass Floor-R4,1.6321,0.6127,3,Typical Insulation-R2,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Wall-R11,0.4959,2.0167,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof - Highly Reflective-R25,0.2271,4.4028,2,Metal Roof Surface - Highly Reflective,Typical Insulation-R25,3127.59,0.45
+Typical Insulated Steel Framed Exterior Wall-R12,0.4605,2.1714,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical IEAD Roof - Highly Reflective-R26,0.2156,4.6383,3,Roof Membrane - Highly Reflective,Metal Roof Surface,18669.89,0.45
+Typical Insulated Steel Framed Exterior Floor-R27,0.2138,4.6773,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Wood Framed Exterior Floor-R31,0.1858,5.3817,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Exterior Mass Wall-R7,0.8683,1.1517,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Exterior Mass Floor-R10,0.599,1.6694,3,Typical Insulation-R8,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Roof-R25,0.2271,4.4028,2,Metal Roof Surface,Typical Insulation-R25,3127.59,0.7
+Typical Insulated Steel Framed Exterior Wall-R13,0.426,2.3475,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Exterior Mass Wall-R9,0.6649,1.5039,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Exterior Mass Floor-R14,0.4213,2.3738,3,Typical Insulation-R12,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Steel Framed Exterior Wall-R16,0.3477,2.8758,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Basement Mass Wall-R8,0.7214,1.3861,2,Typical Insulation-R7,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical IEAD Roof-R32,0.1812,5.5188,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Carpeted 8in Slab Floor-R5,0.9911,1.0089,3,Typical Insulation-R4,Typical Carpet Pad,392310.67,0.7
+Typical Insulated Wood Framed Exterior Wall-R16,0.3477,2.8758,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R48,0.1194,8.3766,2,5/8 in. Gypsum Board,Typical Insulation-R47,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R10,0.5952,1.68,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Exterior Mass Floor-R18,0.3249,3.0783,3,Typical Insulation-R16,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Wall-R17,0.3254,3.0733,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof-R28,0.2103,4.755,2,Metal Roof Surface,Typical Insulation-R27,3127.59,0.7
+Typical Insulated Steel Framed Exterior Wall-R19,0.3098,3.2281,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Wood Framed Exterior Wall-R20,0.2793,3.5803,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Exterior Mass Wall-R12,0.4921,2.0322,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Metal Building Wall-R20,0.2776,3.6017,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Steel Framed Exterior Wall-R21,0.2793,3.5803,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Basement Mass Wall-R10,0.5753,1.7383,2,Typical Insulation-R9,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical Insulated Steel Framed Exterior Floor-R32,0.1799,5.5579,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Wood Framed Exterior Floor-R38,0.1512,6.6145,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Exterior Mass Wall-R13,0.4528,2.2083,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Exterior Mass Floor-R20,0.2915,3.4305,3,Typical Insulation-R18,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Roof-R33,0.1721,5.8117,2,Metal Roof Surface,Typical Insulation-R33,3127.59,0.7
+Typical Insulated Basement Mass Wall-R15,0.3818,2.6189,2,Typical Insulation-R14,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical IEAD Roof-R36,0.1563,6.3994,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Wood Joist Attic Floor-R59,0.0953,10.4899,2,5/8 in. Gypsum Board,Typical Insulation-R59,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R15,0.3905,2.5606,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Exterior Mass Floor-R24,0.232,4.311,3,Typical Insulation-R23,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Wall-R23,0.2421,4.13,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof-R35,0.1622,6.1639,2,Metal Roof Surface,Typical Insulation-R35,3127.59,0.7
+Typical Insulated Steel Framed Exterior Wall-R28,0.2078,4.813,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Carpeted 8in Slab Floor-R10,0.5292,1.8895,3,Typical Insulation-R9,Typical Carpet Pad,392310.67,0.7
+Typical Insulated Wood Framed Exterior Wall-R32,0.1812,5.5175,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Exterior Mass Wall-R21,0.2636,3.7933,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Exterior Mass Floor-R27,0.2144,4.6632,3,Typical Insulation-R25,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Wall-R26,0.2147,4.6583,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof-R39,0.1456,6.8683,2,Metal Roof Surface,Typical Insulation-R39,3127.59,0.7
+Typical Insulated Metal Door-R2,2.839,0.3522,2,F08 Metal surface,Typical Insulation-R2,3127.59,0.7
+Typical Overhead Door-R1,5.6783,0.1761,1,Typical Insulation-R1,Typical Insulation-R1,0,0.7
+Typical Overhead Door-R2,2.8391,0.3522,1,Typical Insulation-R2,Typical Insulation-R2,0,0.7
+Typical IEAD Roof - Highly Reflective-R16,0.3476,2.8772,3,Roof Membrane - Highly Reflective,Metal Roof Surface,18669.89,0.45
+Typical Wood Joist Attic Floor-R30,0.1921,5.2066,2,5/8 in. Gypsum Board,Typical Insulation-R29,13855.89,0.7
+Typical Insulated Metal Building Roof - Highly Reflective-R16,0.3549,2.8178,2,Metal Roof Surface - Highly Reflective,Typical Insulation-R16,3127.59,0.45
+Typical Insulated Steel Framed Exterior Floor-R20,0.2903,3.4445,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Wood Framed Exterior Floor-R20,0.2903,3.4445,5,25mm Stucco,Typical Carpet Pad,67285.96,0.7
+Typical Insulated Metal Building Roof-R19,0.2989,3.3461,2,Metal Roof Surface,Typical Insulation-R19,3127.59,0.7
+Typical Insulated Metal Building Wall-R12,0.456,2.1928,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical IEAD Roof-R21,0.2661,3.7577,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Exterior Mass Floor-R12,0.4947,2.0216,3,Typical Insulation-R10,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Wall-R15,0.3929,2.545,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Carpeted 6in Slab Floor-R5,1.0132,0.9869,3,Typical Insulation-R4,Typical Carpet Pad,294233.0,0.7
+Typical Insulated Exterior Mass Floor-R16,0.3668,2.726,3,Typical Insulation-R14,Typical Carpet Pad,196155.34,0.7
+Typical Insulated Metal Building Roof-R21,0.2704,3.6983,2,Metal Roof Surface,Typical Insulation-R21,3127.59,0.7
+Typical Insulated Metal Building Wall-R18,0.3254,3.0733,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Wood Framed Exterior Wall-R28,0.2004,4.9892,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Metal Building Roof-R29,0.1958,5.1072,2,Metal Roof Surface,Typical Insulation-R29,3127.59,0.7
+Typical Insulated Metal Building Wall-R9,0.6008,1.6645,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof-R16,0.3549,2.8178,2,Metal Roof Surface,Typical Insulation-R16,3127.59,0.7
+Typical IEAD Roof-R16,0.3476,2.8772,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Exterior Mass Floor-R8,0.7592,1.3172,3,Typical Insulation-R6,Typical Carpet Pad,196155.34,0.7
+Typical IEAD Roof-R14,0.396,2.525,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Wood Joist Attic Floor-R14,0.4186,2.3889,2,5/8 in. Gypsum Board,Typical Insulation-R13,13855.89,0.7
+Typical Insulated Metal Building Wall-R1,3.9128,0.2556,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof-R10,0.5678,1.7611,2,Metal Roof Surface,Typical Insulation-R10,3127.59,0.7
+Typical Insulated Steel Framed Exterior Wall-R7,0.7747,1.2908,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Wood Framed Exterior Wall-R7,0.7747,1.2908,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R16,0.3648,2.7411,2,5/8 in. Gypsum Board,Typical Insulation-R15,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R3,1.6043,0.6233,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Metal Building Wall-R7,0.7621,1.3122,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Steel Framed Exterior Wall-R8,0.6817,1.467,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Basement Mass Wall-R7,0.8264,1.21,2,Typical Insulation-R6,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical Insulated Wood Framed Exterior Wall-R8,0.6817,1.467,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Exterior Mass Wall-R4,1.6043,0.6233,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Metal Building Wall-R8,0.6719,1.4883,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical IEAD Roof-R18,0.3275,3.0533,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Wood Joist Attic Floor-R18,0.3233,3.0933,2,5/8 in. Gypsum Board,Typical Insulation-R17,13855.89,0.7
+Typical Insulated Metal Building Roof-R12,0.4732,2.1133,2,Metal Roof Surface,Typical Insulation-R12,3127.59,0.7
+Typical IEAD Roof-R19,0.2936,3.4055,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Wood Framed Exterior Wall-R13,0.4605,2.1714,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R19,0.2902,3.4455,2,5/8 in. Gypsum Board,Typical Insulation-R19,13855.89,0.7
+Typical Insulated Metal Building Wall-R13,0.456,2.1928,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof-R14,0.4056,2.4656,2,Metal Roof Surface,Typical Insulation-R14,3127.59,0.7
+Typical Insulated Basement Mass Wall-R13,0.4412,2.2667,2,Typical Insulation-R12,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical IEAD Roof-R23,0.2542,3.9339,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Wood Joist Attic Floor-R23,0.2516,3.9739,2,5/8 in. Gypsum Board,Typical Insulation-R22,13855.89,0.7
+Typical Insulated Metal Building Wall-R16,0.3675,2.7211,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Metal Building Roof-R23,0.2469,4.0506,2,Metal Roof Surface,Typical Insulation-R23,3127.59,0.7
+Typical Insulated Steel Framed Exterior Wall-R18,0.3277,3.0519,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical IEAD Roof-R25,0.2241,4.4622,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Wood Framed Exterior Wall-R18,0.3277,3.0519,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R25,0.2221,4.5022,2,5/8 in. Gypsum Board,Typical Insulation-R25,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R17,0.3433,2.9128,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Steel Framed Exterior Wall-R23,0.2543,3.9325,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Insulated Basement Mass Wall-R16,0.3578,2.795,2,Typical Insulation-R15,8 in. Concrete Block Basement Wall,341137.17,0.7
+Typical IEAD Roof-R33,0.1756,5.695,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Wood Framed Exterior Wall-R23,0.2543,3.9325,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R33,0.1744,5.735,2,5/8 in. Gypsum Board,Typical Insulation-R32,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R22,0.2636,3.7933,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Steel Framed Exterior Wall-R5,1.3114,0.7625,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical IEAD Roof-R10,0.5493,1.8205,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Wood Framed Exterior Wall-R5,1.3114,0.7625,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R10,0.5375,1.8605,2,5/8 in. Gypsum Board,Typical Insulation-R10,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R5,1.2509,0.7995,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Metal Building Wall-R5,1.2757,0.7839,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical Insulated Steel Framed Exterior Wall-R6,0.8971,1.1147,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical IEAD Roof-R12,0.4602,2.1728,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Insulated Wood Framed Exterior Wall-R6,0.8971,1.1147,4,25mm Stucco,5/8 in. Gypsum Board,67285.96,0.7
+Typical Wood Joist Attic Floor-R12,0.491,2.0367,2,5/8 in. Gypsum Board,Typical Insulation-R11,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R6,1.025,0.9756,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Typical Insulated Metal Building Wall-R6,0.8802,1.1361,3,Metal Siding,1/2IN Gypsum,12993.93,0.7
+Typical IEAD Roof-R17,0.3275,3.0533,3,Roof Membrane,Metal Roof Surface,18669.89,0.7
+Typical Wood Joist Attic Floor-R17,0.3428,2.9172,2,5/8 in. Gypsum Board,Typical Insulation-R16,13855.89,0.7
+Typical Insulated Exterior Mass Wall-R8,0.7531,1.3278,4,1IN Stucco,1/2IN Gypsum,428228.09,0.7
+Dry Sand,1.65,0.6061,1,Dry Sand,Dry Sand,248800.0,0.65
+Dry Dust,2.5,0.4,1,Dry Dust,Dry Dust,328320.0,0.7
+Moist Soil,5.0,0.2,1,Moist Soil,Moist Soil,313000.0,0.75
+Mud,7.0,0.1429,1,Mud,Mud,544640.0,0.8
+Concrete Pavement,8.65,0.1156,1,Concrete Pavement,Concrete Pavement,375478.2,0.65
+Asphalt Pavement,3.75,0.2667,1,Asphalt Pavement,Asphalt Pavement,434240.0,0.87
+Solid Rock,15.0,0.0667,1,Solid Rock,Solid Rock,426600.0,0.55
+Grassy Lawn,3.5,0.2857,1,Grassy Lawn,Grassy Lawn,132000.0,0.78

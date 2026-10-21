@@ -1,0 +1,18 @@
+Equipment_Name,Category,Type,Fuel_Type,Efficiency,Min_Supply_Temp_C,Max_Supply_Temp_C,Design_Supply_Temp_C,Allowed_Connections,Description
+Centrifugal Water-Cooled Chiller,PlantSystem,Chiller,Electricity,5.80,5.5,11.0,6.7,AirLoop (ChilledWaterCoil) | FCU | Radiant,High-efficiency central electric water-cooled chiller
+Air-Cooled Scroll Chiller,PlantSystem,Chiller,Electricity,3.10,5.5,11.0,6.7,AirLoop (ChilledWaterCoil) | FCU | Radiant,Standard air-cooled packaged chiller
+Condensing Gas Boiler,PlantSystem,Boiler,NaturalGas,0.94,45.0,82.0,82.0,AirLoop (HotWaterCoil) | VAV Reheat | FCU | Radiator,High-efficiency natural gas condensing boiler
+Standard Atmospheric Gas Boiler,PlantSystem,Boiler,NaturalGas,0.80,60.0,82.0,82.0,AirLoop (HotWaterCoil) | VAV Reheat | FCU | Radiator,Standard natural gas atmospheric boiler
+Electric Resistance Boiler,PlantSystem,Boiler,Electricity,0.98,45.0,82.0,82.0,AirLoop (HotWaterCoil) | VAV Reheat | FCU | Radiator,Electric water boiler
+Air-Source Heat Pump (Chiller/Heater),PlantSystem,HeatPump,Electricity,3.40,30.0,50.0,45.0,AirLoop (WaterCoil) | FCU | Radiant,Reversible air-to-water heat pump for heating and cooling
+Induced Draft Cooling Tower,PlantSystem,CoolingTower,Electricity,0.85,20.0,32.0,29.4,Water-Cooled Chiller Condenser Loop,Standard open-circuit induced draft cooling tower
+District Chilled Water Service,PlantSystem,Chiller,DistrictCooling,10.0,5.0,10.0,6.0,AirLoop (ChilledWaterCoil) | FCU,District cooling utility supply connection
+District Steam/Hot Water Service,PlantSystem,Boiler,DistrictHeating,0.98,60.0,90.0,90.0,AirLoop (HotWaterCoil) | Radiators,District heating utility supply connection
+VAV Terminal Box with Hot Water Reheat,ZoneTerminal,VAV,None,0.0,12.0,40.0,Variable,AirLoop (Central AHU) + Boiler Plant,Variable air volume box with hydronic reheat coil
+VAV Terminal Box with Electric Reheat,ZoneTerminal,VAV,Electricity,0.98,12.0,40.0,Variable,AirLoop (Central AHU),Variable air volume box with electric resistance reheat coil
+Four-Pipe Fan Coil Unit (FCU),ZoneTerminal,FCU,Electricity,0.60,6.0,60.0,12.0,Chiller Plant + Boiler Plant,In-room unit with dedicated chilled water and hot water coils
+Ductless Mini-Split AC / Heat Pump,ZoneTerminal,SplitAC,Electricity,3.80,12.0,25.0,12.0,Direct Zone (No Central Plant),Direct expansion inverter mini-split air conditioner
+Packaged Terminal Air Conditioner (PTAC),ZoneTerminal,PTAC,Electricity,3.00,12.0,40.0,12.0,Direct Zone (No Central Plant),Through-wall packaged terminal air conditioner with electric heat
+Hydronic Baseboard Radiator,ZoneTerminal,Radiator,None,0.0,50.0,82.0,82.0,Boiler Plant,Wall-mounted natural convection hot water baseboard heater
+Central VAV Supply Fan (Variable Speed),AirLoop,Fan,Electricity,0.65,None,None,Variable,VAV AirLoop,High-efficiency variable-speed backward-curved centrifugal fan
+Constant Volume Fan (Constant Speed),AirLoop,Fan,Electricity,0.55,None,None,Variable,CAV AirLoop,Standard constant speed supply fan

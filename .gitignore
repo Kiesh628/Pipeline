@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Simulation outputs and EnergyPlus intermediate files
+simulation_outputs/
+*.audit
+*.bnd
+*.eio
+*.end
+*.err
+*.mdd
+*.mtd
+*.rdd
+*.shd
+*.sql
+*.log
+*.tmp
+
+# Preserve lookup table CSVs
+!repair/lookup_tables/*.csv
+
+# Inspection and output dumps
+ifc_inspection.txt
+orchestrator_output.txt
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

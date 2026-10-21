@@ -1,0 +1,146 @@
+Template_Name,System_Family,Description
+Furnace,ForcedAirFurnace,Forced Air Furnace HVAC system (aka. System 9 or 10).
+Furnace_Electric,ForcedAirFurnace,Forced Air Furnace HVAC system (aka. System 9 or 10).
+PSZAC_ElectricBaseboard,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_BoilerBaseboard,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DHWBaseboard,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_GasHeaters,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_ElectricCoil,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_GasCoil,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_Boiler,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_ASHP,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DHW,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_ElectricBaseboard,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_BoilerBaseboard,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_GasHeaters,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_ElectricCoil,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_GasCoil,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_Boiler,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_ASHP,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW_DHW,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZAC_DCW,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PSZHP,PSZ,Packaged Single-Zone (PSZ) HVAC system (aka. System 3 or 4).
+PTAC_ElectricBaseboard,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_BoilerBaseboard,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_DHWBaseboard,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_GasHeaters,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_ElectricCoil,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_GasCoil,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_Boiler,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_ASHP,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC_DHW,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTAC,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PTHP,PTAC,Packaged Terminal Air Conditioning (PTAC/HP) HVAC system. (aka. System 1 or 2).
+PVAV_Boiler,PVAV,Packaged Variable Air Volume (PVAV) HVAC system (aka. System 5 or 6).
+PVAV_ASHP,PVAV,Packaged Variable Air Volume (PVAV) HVAC system (aka. System 5 or 6).
+PVAV_DHW,PVAV,Packaged Variable Air Volume (PVAV) HVAC system (aka. System 5 or 6).
+PVAV_PFP,PVAV,Packaged Variable Air Volume (PVAV) HVAC system (aka. System 5 or 6).
+PVAV_BoilerElectricReheat,PVAV,Packaged Variable Air Volume (PVAV) HVAC system (aka. System 5 or 6).
+VAV_Chiller_Boiler,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_Chiller_ASHP,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_Chiller_DHW,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_Chiller_PFP,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_Chiller_GasCoil,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_ACChiller_Boiler,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_ACChiller_ASHP,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_ACChiller_DHW,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_ACChiller_PFP,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_ACChiller_GasCoil,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_DCW_Boiler,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_DCW_ASHP,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_DCW_DHW,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_DCW_PFP,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+VAV_DCW_GasCoil,VAV,Variable Air Volume (VAV) HVAC system (aka. System 7 or 8).
+DOAS_FCU_Chiller_Boiler,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_Chiller_ASHP,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_Chiller_DHW,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_Chiller_ElectricBaseboard,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_Chiller_GasHeaters,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_Chiller,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_ACChiller_Boiler,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_ACChiller_ASHP,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_ACChiller_DHW,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_ACChiller_ElectricBaseboard,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_ACChiller_GasHeaters,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_ACChiller,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_DCW_Boiler,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_DCW_ASHP,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_DCW_DHW,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_DCW_ElectricBaseboard,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_DCW_GasHeaters,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_FCU_DCW,FCUwithDOAS,Fan Coil Unit (FCU) with DOAS HVAC system.
+DOAS_Radiant_Chiller_Boiler,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_Chiller_ASHP,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_Chiller_DHW,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_ACChiller_Boiler,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_ACChiller_ASHP,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_ACChiller_DHW,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_DCW_Boiler,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_DCW_ASHP,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_Radiant_DCW_DHW,RadiantwithDOAS,Low temperature radiant with DOAS HVAC system.
+DOAS_VRF,VRFwithDOAS,Variable Refrigerant Flow (VRF) with DOAS HVAC system.
+DOAS_WSHP_FluidCooler_Boiler,WSHPwithDOAS,Water Source Heat Pump (WSHP) with DOAS HVAC system.
+DOAS_WSHP_CoolingTower_Boiler,WSHPwithDOAS,Water Source Heat Pump (WSHP) with DOAS HVAC system.
+DOAS_WSHP_GSHP,WSHPwithDOAS,Water Source Heat Pump (WSHP) with DOAS HVAC system.
+DOAS_WSHP_DCW_DHW,WSHPwithDOAS,Water Source Heat Pump (WSHP) with DOAS HVAC system.
+ElectricBaseboard,Baseboard,Baseboard heating system.
+BoilerBaseboard,Baseboard,Baseboard heating system.
+ASHPBaseboard,Baseboard,Baseboard heating system.
+DHWBaseboard,Baseboard,Baseboard heating system.
+EvapCoolers_ElectricBaseboard,EvaporativeCooler,Direct evaporative cooling systems (with optional heating).
+EvapCoolers_BoilerBaseboard,EvaporativeCooler,Direct evaporative cooling systems (with optional heating).
+EvapCoolers_ASHPBaseboard,EvaporativeCooler,Direct evaporative cooling systems (with optional heating).
+EvapCoolers_DHWBaseboard,EvaporativeCooler,Direct evaporative cooling systems (with optional heating).
+EvapCoolers_Furnace,EvaporativeCooler,Direct evaporative cooling systems (with optional heating).
+EvapCoolers_UnitHeaters,EvaporativeCooler,Direct evaporative cooling systems (with optional heating).
+EvapCoolers,EvaporativeCooler,Direct evaporative cooling systems (with optional heating).
+FCU_Chiller_Boiler,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_Chiller_ASHP,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_Chiller_DHW,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_Chiller_ElectricBaseboard,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_Chiller_GasHeaters,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_Chiller,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_ACChiller_Boiler,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_ACChiller_ASHP,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_ACChiller_DHW,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_ACChiller_ElectricBaseboard,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_ACChiller_GasHeaters,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_ACChiller,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_DCW_Boiler,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_DCW_ASHP,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_DCW_DHW,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_DCW_ElectricBaseboard,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_DCW_GasHeaters,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+FCU_DCW,FCU,Fan Coil Unit (FCU) heating/cooling system (with no ventilation).
+GasHeaters,GasUnitHeater,Gas unit heating system.
+Radiant_Chiller_Boiler,Radiant,Low temperature radiant HVAC system.
+Radiant_Chiller_ASHP,Radiant,Low temperature radiant HVAC system.
+Radiant_Chiller_DHW,Radiant,Low temperature radiant HVAC system.
+Radiant_ACChiller_Boiler,Radiant,Low temperature radiant HVAC system.
+Radiant_ACChiller_ASHP,Radiant,Low temperature radiant HVAC system.
+Radiant_ACChiller_DHW,Radiant,Low temperature radiant HVAC system.
+Radiant_DCW_Boiler,Radiant,Low temperature radiant HVAC system.
+Radiant_DCW_ASHP,Radiant,Low temperature radiant HVAC system.
+Radiant_DCW_DHW,Radiant,Low temperature radiant HVAC system.
+ResidentialAC_ElectricBaseboard,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialAC_BoilerBaseboard,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialAC_ASHPBaseboard,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialAC_DHWBaseboard,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialAC_ResidentialFurnace,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialAC,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialHP,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialHPNoCool,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+ResidentialFurnace,Residential,"Residential Air Conditioning, Heat Pump or Furnace system."
+VRF,VRF,Variable Refrigerant Flow (VRF) heating/cooling system (with no ventilation).
+WindowAC_ElectricBaseboard,WindowAC,Window Air Conditioning cooling system (with optional heating).
+WindowAC_BoilerBaseboard,WindowAC,Window Air Conditioning cooling system (with optional heating).
+WindowAC_ASHPBaseboard,WindowAC,Window Air Conditioning cooling system (with optional heating).
+WindowAC_DHWBaseboard,WindowAC,Window Air Conditioning cooling system (with optional heating).
+WindowAC_Furnace,WindowAC,Window Air Conditioning cooling system (with optional heating).
+WindowAC_GasHeaters,WindowAC,Window Air Conditioning cooling system (with optional heating).
+WindowAC,WindowAC,Window Air Conditioning cooling system (with optional heating).
+WSHP_FluidCooler_Boiler,WSHP,Water Source Heat Pump (WSHP) heating/cooling system (with no ventilation).
+WSHP_CoolingTower_Boiler,WSHP,Water Source Heat Pump (WSHP) heating/cooling system (with no ventilation).
+WSHP_GSHP,WSHP,Water Source Heat Pump (WSHP) heating/cooling system (with no ventilation).
+WSHP_DCW_DHW,WSHP,Water Source Heat Pump (WSHP) heating/cooling system (with no ventilation).
